@@ -8,7 +8,7 @@ I am a fullstack developer for both mobile and web applications.
 
 *   🌍  I'm based in Buea - Cameroon
 *   ✉️  You can contact me at [betrandcliff@gmail.com](mailto:betrandcliff@gmail.com)
-*   🚀  I'm currently working on [School Management system](http://s://bitstudentportal.com)
+*   🚀  I'm currently working on [School Management system](https://bitstudentportal.com)
 *   🧠  I'm learning AI and Blockchain
 *   🤝  I'm open to collaborating on projects### Skills 
 
