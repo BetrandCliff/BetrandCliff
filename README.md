@@ -4,12 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web and Mobile developer
 -----------------------------------
 
-I am a fullstack developer for both mobile and web applications.
+I am a fullstack developer mobile  applications.
 
 *   🌍  I'm based in Buea - Cameroon
 *   ✉️  You can contact me at [betrandcliff@gmail.com](mailto:betrandcliff@gmail.com)
-*   🚀  I'm currently working on [School Management system](https://bitstudentportal.com)
-*   🧠  I'm learning AI and Blockchain
 *   🤝  I'm open to collaborating on projects### Skills 
 
 
